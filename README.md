@@ -12,8 +12,8 @@
 
 ### Лабораторные работы  
 
-ЛР 0: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR0.pdf
-ЛР 1: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR1.pdf
+ЛР 0: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR0.pdf  
+ЛР 1: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR1.pdf  
 
 
 ### Дедлайн
