@@ -10,17 +10,23 @@
 **МОАИС** Понедельник: 3 и 4 пара 3/127  
 **ПРИ**: Понедельник 1 пара 3/118
 
+### Правила игры немного изменелись, теперь каждая задача стоит свой балл. Для получения зачета Вам необходимо набрать порог (значение порога чуть позже...)  
+
+
 ### Лабораторные работы  
 
 ЛР 0: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR0.pdf  
 ЛР 1: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR1.pdf  
 ЛР 2: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/tree/main/2022-2023/LR2  
+ЛР 3: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR3.pdf  
+
 
 
 ### Дедлайн
 Лабораторная работа 0: 05.10.2022  
 Лабораторная работа 1: 19.10.2022  
-Лабораторная работа 2: 9.11.2022
+Лабораторная работа 2: 16.11.2022
+Лабораторная работа 3: 23.11.2022
 
 ### Материалы лекций
 
