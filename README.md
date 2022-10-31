@@ -12,6 +12,8 @@
 
 ### Правила игры немного изменелись, теперь каждая задача стоит свой балл. Для получения зачета Вам необходимо набрать порог (значение порога чуть позже...)  
 
+### Журнал:  
+https://docs.google.com/spreadsheets/d/1OXioWgaELcgnGfAl4z6xPCmKFSH8tkRikvSGVvuwSKI/edit?usp=sharing  
 
 ### Лабораторные работы  
 
