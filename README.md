@@ -22,6 +22,7 @@ https://docs.google.com/spreadsheets/d/1OXioWgaELcgnGfAl4z6xPCmKFSH8tkRikvSGVvuw
 ЛР 2: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/tree/main/2022-2023/LR2  
 ЛР 3: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR3.pdf  
 ЛР 4: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR4/LR4.pdf  
+
 ЛР 5: https://github.com/AlexShabalin73/High-methods-of-informatics-and-programming/blob/main/2022-2023/LR5/LR5.pdf  
 Для замерки времени работы программы можно использовать profile.h  
 
